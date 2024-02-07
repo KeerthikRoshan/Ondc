@@ -1,40 +1,23 @@
-## [1.3.0] 2023-05-06
-
-🐛 Bugs solved:
-
-- Sidebar content design bug solved
+# Changelog
 
 
-## [1.2.1] 2022-11-01
+## [1.1.1] 2022-11-01
 
 🚀 Feature:
 -Added TimelineRow
 
-## [1.2.0] 2022-08-23
+## [1.1.0] 2022-09-21
+### React Tables V8
+🚀 Feature: Now Horizon UI Typescript comes in V8 version for React Tables. You can clone the repository [here](https://github.com/horizon-ui/horizon-ui-chakra-ts/tree/feature/react-table-v8) !
+ 
+## [1.1.0] 2022-09-21
+### React Tables V8
+🚀 Feature: Now Horizon UI Typescript comes in V8 version for React Tables. You can clone the repository [here](https://github.com/horizon-ui/horizon-ui-chakra-ts/tree/feature/react-table-v8) !
 
-🚀 HyperTheme Editor
+## [1.0.1] 2022-09-7
+### Bug Fixing 
+Mapbox bug when using `yarn` fixed.
 
-- With the help of the guys from Hyperting, we added HyperTheme Editor. You can check the docs [here](https://www.hyperthe.me/documentation/getting-started/community)!
-## [1.1.0] 2022-06-08
-
-🐛 Bugs solved:
-
-- Calendar card - Card border bug on dark mode
-- Development Table - Missing content bug
-- Solved the warnings regarding stylis-plugin-rtl
-- Fixed console warnings
-
-## [1.0.1] 2022-04-25
-
-### Multiple design bugs on mobile solved
-
-- Default - "Daily traffic" card - text align problem on mobile - solved.
-- Navbar - Icons - align problem with all icons on mobile - solved.
-- Profile - "Your storage" card - "More" icon align problem on mobile - solved.
-- Profile - "Complete your profile" card - text align problem on mobile - solved.
-
-## [1.0.0] 2022-04-18
-
-### Original Release
-
-- Added Chakra UI as base framework
+## [1.0.0] 2022-08-31
+### Official Release 
+- Added TypeScript!
